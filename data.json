@@ -1,7 +1,7 @@
 [
     {
         "person_name": "Sanae Abdi",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://sanae-abdi.spd.de/",
             "https://twitter.com/abdisanae?lang=de",
@@ -11,7 +11,7 @@
     },
     {
         "person_name": "Valentin Abel",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "https://www.valentin-abel.de",
             "https://twitter.com/Valentin_C_Abel",
@@ -22,7 +22,7 @@
     },
     {
         "person_name": "Knut Abraham",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://Knut-Abraham.de",
             "https://facebook.com/knut.abraham"
@@ -30,7 +30,7 @@
     },
     {
         "person_name": "Katja Adler",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://www.katja-adler.eu",
             "https://twitter.com/katjadler",
@@ -41,7 +41,7 @@
     },
     {
         "person_name": "Stephanie Aeffner",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://aeffnerstephanie.de",
             "https://www.instagram.com/stephanie_aeffner/",
@@ -51,7 +51,7 @@
     },
     {
         "person_name": "Adis Ahmetovic",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.adis-ahmetovic.de",
             "http://www.facebook.de/AdisAhmetovic.SPD",
@@ -59,8 +59,8 @@
         ]
     },
     {
-        "person_name": "Gökay Akbulut",
-        "person_company": "Die Linke",
+        "person_name": "G\u00f6kay Akbulut",
+        "company_name": "Die Linke",
         "social_networks": [
             "https://goekay-akbulut.de/",
             "https://www.facebook.com/gokay.akbulut.146",
@@ -71,12 +71,12 @@
     },
     {
         "person_name": "Ali Al-Dailami",
-        "person_company": "Die Linke",
+        "company_name": "Die Linke",
         "social_networks": []
     },
     {
         "person_name": "Muhanad Al-Halak",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "https://muhanad-al-halak.wahl.freie-demokraten.de/",
             "https://www.facebook.com/AlHalakMuhanad/",
@@ -87,7 +87,7 @@
     },
     {
         "person_name": "Reem Alabali-Radovan",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://reem-alabali-radovan.spd.de/",
             "https://www.facebook.com/reem.alabaliradovan",
@@ -97,7 +97,7 @@
     },
     {
         "person_name": "Stephan Albani",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.stephan-albani.de",
             "https://www.facebook.com/StephanAlbaniMdB"
@@ -105,7 +105,7 @@
     },
     {
         "person_name": "Renata Alt",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "https://www.renata-alt.de",
             "https://www.facebook.com/AltRenata/",
@@ -115,7 +115,7 @@
     },
     {
         "person_name": "Norbert Maria Altenkamp",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.norbert-altenkamp.de/",
             "https://twitter.com/NAltenkamp",
@@ -126,7 +126,7 @@
     },
     {
         "person_name": "Philipp Amthor",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://www.philipp-amthor.de/",
             "https://www.facebook.com/amthor.philipp/",
@@ -135,7 +135,7 @@
     },
     {
         "person_name": "Luise Amtsberg",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.luise-amtsberg.de",
             "https://de-de.facebook.com/LuiseAmtsberg/",
@@ -144,7 +144,7 @@
     },
     {
         "person_name": "Dagmar Andres",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.dagmar-andres.de/",
             "https://twitter.com/DagmarAndres",
@@ -154,7 +154,7 @@
     },
     {
         "person_name": "Niels Annen",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.nielsannen.de",
             "https://www.facebook.com/nielsannen",
@@ -164,7 +164,7 @@
     },
     {
         "person_name": "Johannes Arlt",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://johannesarlt-mv.de/",
             "http://twitter.com/arlt_johannes",
@@ -175,7 +175,7 @@
     },
     {
         "person_name": "Christine Aschenberg-Dugnus",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "https://caschenbergdugnus.abgeordnete.fdpbt.de/",
             "https://www.facebook.com/AschenbergDugnusMdB/",
@@ -185,7 +185,7 @@
     },
     {
         "person_name": "Andreas Audretsch",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.andreasaudretsch.de",
             "http://facebook.com/andreas.audretsch",
@@ -195,7 +195,7 @@
     },
     {
         "person_name": "Artur Auernhammer",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://www.artur-auernhammer.de/",
             "https://www.facebook.com/AuernhammerMdB/",
@@ -204,7 +204,7 @@
     },
     {
         "person_name": "Peter Aumer",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.peter-aumer.de/",
             "https://www.facebook.com/PeAumer/",
@@ -212,8 +212,8 @@
         ]
     },
     {
-        "person_name": "Maik Außendorf",
-        "person_company": "Bündnis 90/Die Grünen",
+        "person_name": "Maik Au\u00dfendorf",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://maik-aussendorf.de/",
             "https://twitter.com/maik_aussendorf",
@@ -226,7 +226,7 @@
     },
     {
         "person_name": "Tobias Bacherle",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://tbbacherle.eu",
             "https://facebook.com/tbbacherle",
@@ -237,7 +237,7 @@
     },
     {
         "person_name": "Carolin Bachmann",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://www.carolinbachmann.de",
             "https://www.facebook.com/CarolinBachmannAfD"
@@ -245,7 +245,7 @@
     },
     {
         "person_name": "Lisa Badum",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.lisa-badum.de/",
             "https://www.facebook.com/BadumLisa/",
@@ -255,7 +255,7 @@
     },
     {
         "person_name": "Heike Baehrens",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.heike-baehrens.de",
             "https://www.facebook.com/baehrensmdb",
@@ -263,15 +263,15 @@
         ]
     },
     {
-        "person_name": "Dorothee Bär",
-        "person_company": "CDU/CSU",
+        "person_name": "Dorothee B\u00e4r",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://dorothee-baer.de/"
         ]
     },
     {
-        "person_name": "Karl Bär",
-        "person_company": "Bündnis 90/Die Grünen",
+        "person_name": "Karl B\u00e4r",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.karl-baer.eu",
             "https://twitter.com/karlbaer",
@@ -281,7 +281,7 @@
     },
     {
         "person_name": "Annalena Baerbock",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.annalena-baerbock.de",
             "https://www.facebook.com/abaerbock/",
@@ -291,14 +291,14 @@
     },
     {
         "person_name": "Ulrike Bahr",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://ulrike-bahr.de/"
         ]
     },
     {
         "person_name": "Daniel Baldy",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.daniel-baldy.de",
             "http://twitter.com/baldy_daniel",
@@ -308,7 +308,7 @@
     },
     {
         "person_name": "Felix Banaszak",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.felixbanaszak.de",
             "https://www.facebook.com/felix.banaszak",
@@ -318,7 +318,7 @@
     },
     {
         "person_name": "Nezahat Baradari",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.nezahat-baradari.de/",
             "https://www.facebook.com/Baradari2021",
@@ -326,8 +326,8 @@
         ]
     },
     {
-        "person_name": "Thomas Bareiß",
-        "person_company": "CDU/CSU",
+        "person_name": "Thomas Barei\u00df",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.thomas-bareiss.de",
             "https://twitter.com/Thomas_Bareiss?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -336,8 +336,8 @@
         ]
     },
     {
-        "person_name": "Sören Bartol",
-        "person_company": "SPD",
+        "person_name": "S\u00f6ren Bartol",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.bartol.de/",
             "http://www.facebook.com/soerenbartol",
@@ -348,7 +348,7 @@
     },
     {
         "person_name": "Dr. Dietmar Bartsch",
-        "person_company": "Die Linke",
+        "company_name": "Die Linke",
         "social_networks": [
             "http://www.dietmar-bartsch.de/",
             "http://www.facebook.com/DietmarBartschMdB/",
@@ -356,8 +356,8 @@
         ]
     },
     {
-        "person_name": "Bärbel Bas",
-        "person_company": "SPD",
+        "person_name": "B\u00e4rbel Bas",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.baerbelbas.de/",
             "https://www.facebook.com/baerbel.bas",
@@ -367,7 +367,7 @@
     },
     {
         "person_name": "Nicole Bauer",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://fdp-nicole-bauer.de/",
             "http://www.twitter.com/nicole_ae_bauer",
@@ -379,7 +379,7 @@
     },
     {
         "person_name": "Dr. Christina Baum",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://dr-christina-baum.de",
             "https://www.facebook.com/Dr.Christina.Baum/",
@@ -389,7 +389,7 @@
     },
     {
         "person_name": "Dr. Bernd Baumann",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://www.bernd-baumann.de/",
             "https://twitter.com/BerndBaumannAfD",
@@ -399,7 +399,7 @@
     },
     {
         "person_name": "Canan Bayram",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "http://bayram-gruene.de/",
             "https://www.facebook.com/ErststimmeBayram/",
@@ -409,7 +409,7 @@
     },
     {
         "person_name": "Katharina Beck",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://katharina-beck.de/",
             "https://twitter.com/kathabeck",
@@ -421,7 +421,7 @@
     },
     {
         "person_name": "Roger Beckamp",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://beckamp.info",
             "https://www.facebook.com/roger.beckamp.afd",
@@ -435,7 +435,7 @@
     },
     {
         "person_name": "Dr. Holger Becker",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://holger-becker-spd.de",
             "https://www.facebook.com/dr.holger.becker/",
@@ -445,7 +445,7 @@
     },
     {
         "person_name": "Jens Beeck",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://www.jensbeeck.de/",
             "https://www.facebook.com/jensbeeck.de/",
@@ -456,7 +456,7 @@
     },
     {
         "person_name": "Lukas Benner",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "http://www.lukas-benner.de",
             "http://www.facebook.com/lukasBennerAc",
@@ -464,8 +464,8 @@
         ]
     },
     {
-        "person_name": "Jürgen Berghahn",
-        "person_company": "SPD",
+        "person_name": "J\u00fcrgen Berghahn",
+        "company_name": "SPD",
         "social_networks": [
             "https://juergen-berghahn.de/home.html",
             "https://www.instagram.com/juergen.berghahn/",
@@ -473,8 +473,8 @@
         ]
     },
     {
-        "person_name": "Dr. André Berghegger",
-        "person_company": "CDU/CSU",
+        "person_name": "Dr. Andr\u00e9 Berghegger",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.andre-berghegger.de",
             "https://www.facebook.com/BergheggerAndreMdB",
@@ -483,7 +483,7 @@
     },
     {
         "person_name": "Bengt Bergt",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.bengtbergt.de",
             "http://www.facebook.com/bengt.bergt",
@@ -494,7 +494,7 @@
     },
     {
         "person_name": "Marc Bernhard",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.marcbernhard.de",
             "https://www.facebook.com/MarcBernhardAfD",
@@ -505,7 +505,7 @@
     },
     {
         "person_name": "Peter Beyer",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.peter-beyer.info",
             "http://www.facebook.com/PeterBeyerMdB",
@@ -516,7 +516,7 @@
     },
     {
         "person_name": "Marc Biadacz",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://www.marc-biadacz.de/",
             "https://www.facebook.com/MBiadacz/",
@@ -527,7 +527,7 @@
     },
     {
         "person_name": "Steffen Bilger",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.steffen-bilger.de",
             "https://twitter.com/steffenbilger",
@@ -537,7 +537,7 @@
     },
     {
         "person_name": "Matthias W. Birkwald",
-        "person_company": "Die Linke",
+        "company_name": "Die Linke",
         "social_networks": [
             "http://www.matthias-w-birkwald.de",
             "https://www.facebook.com/matthias.w.birkwald",
@@ -547,7 +547,7 @@
     },
     {
         "person_name": "Jakob Blankenburg",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.jakobblankenburg.de",
             "https://www.facebook.com/jakobblankenburg.spd",
@@ -557,7 +557,7 @@
     },
     {
         "person_name": "Andreas Bleck",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.andreas-bleck.de/",
             "https://www.facebook.com/AndreasBleckMdB/",
@@ -566,16 +566,16 @@
         ]
     },
     {
-        "person_name": "René Bochmann",
-        "person_company": "AfD",
+        "person_name": "Ren\u00e9 Bochmann",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.rene-bochmann.de",
-            "http://www.facebook.com/René-Bochmann-108300184853403"
+            "http://www.facebook.com/Ren\u00e9-Bochmann-108300184853403"
         ]
     },
     {
         "person_name": "Ingo Bodtke",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://ingobodtke.de",
             "http://facebook.vom/ingo.bodtke",
@@ -586,7 +586,7 @@
     },
     {
         "person_name": "Peter Boehringer",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://www.pboehringer.de/",
             "https://www.facebook.com/Peter.BoehringerCom",
@@ -597,7 +597,7 @@
     },
     {
         "person_name": "Friedhelm Boginski",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "https://fboginski.abgeordnete.fdpbt.de/",
             "https://www.facebook.com/friedhelm.boginski",
@@ -608,7 +608,7 @@
     },
     {
         "person_name": "Gereon Bollmann",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.gereon-bollmann.de",
             "https://www.facebook.com/permalink.php?story_fbid=134886308751905&id=134852682088601"
@@ -616,7 +616,7 @@
     },
     {
         "person_name": "Simone Borchardt",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://www.simone-borchardt.de/",
             "https://www.facebook.com/SimoneBorchardt2021",
@@ -627,7 +627,7 @@
     },
     {
         "person_name": "Michael Brand (Fulda)",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.michael-brand.de/",
             "http://www.facebook.com/menschbrand",
@@ -637,7 +637,7 @@
     },
     {
         "person_name": "Dr. Jens Brandenburg (Rhein-Neckar)",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "https://www.jens-brandenburg.de/",
             "https://www.facebook.com/JensBrandenburgFDP/?sw_fnr_id=2343033566&fnr_t=0",
@@ -646,8 +646,8 @@
         ]
     },
     {
-        "person_name": "Mario Brandenburg (Südpfalz)",
-        "person_company": "FDP",
+        "person_name": "Mario Brandenburg (S\u00fcdpfalz)",
+        "company_name": "FDP",
         "social_networks": [
             "http://www.mariobrandenburg.de",
             "https://twitter.com/brafdp",
@@ -659,14 +659,14 @@
     },
     {
         "person_name": "Dirk Brandes",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://www.facebook.com/DirkBrandesAfD"
         ]
     },
     {
         "person_name": "Dr. Reinhard Brandl",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.reinhard-brandl.de",
             "https://www.facebook.com/reinhard.brandl",
@@ -677,7 +677,7 @@
     },
     {
         "person_name": "Stephan Brandner",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.stephan-brandner.de/",
             "http://www.youtube.com/c/stephanbrandnermdb",
@@ -689,7 +689,7 @@
     },
     {
         "person_name": "Dr. Franziska Brantner",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "http://www.franziska-brantner.de",
             "https://www.facebook.com/franziska.brantner",
@@ -698,7 +698,7 @@
     },
     {
         "person_name": "Prof. Dr. Helge Braun",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.helge-braun.de/",
             "https://www.facebook.com/helge.braun/",
@@ -707,19 +707,19 @@
         ]
     },
     {
-        "person_name": "Jürgen Braun",
-        "person_company": "AfD",
+        "person_name": "J\u00fcrgen Braun",
+        "company_name": "AfD",
         "social_networks": [
             "http://juergen-braun.de/",
             "https://www.facebook.com/braunafd/",
             "https://twitter.com/JuergenBraunAfD",
             "https://www.instagram.com/juergen.braun.mdb",
-            "https://www.youtube.com/JürgenBraunAfD"
+            "https://www.youtube.com/J\u00fcrgenBraunAfD"
         ]
     },
     {
         "person_name": "Silvia Breher",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.silvia-breher.de/",
             "https://www.facebook.com/Silvia.Breher.CDU"
@@ -727,7 +727,7 @@
     },
     {
         "person_name": "Sebastian Brehm",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://www.sebastianbrehm.de/",
             "https://www.facebook.com/sebastianbrehm.de/",
@@ -736,7 +736,7 @@
     },
     {
         "person_name": "Heike Brehmer",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.heike-brehmer.de",
             "http://facebook.com/heike.brehmer.14",
@@ -747,12 +747,12 @@
     },
     {
         "person_name": "Michael Breilmann",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": []
     },
     {
         "person_name": "Leni Breymaier",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "https://www.leni-breymaier.de/",
             "https://www.facebook.com/BreymaierLeni/",
@@ -763,7 +763,7 @@
     },
     {
         "person_name": "Ralph Brinkhaus",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.ralph-brinkhaus.de",
             "https://www.facebook.com/ralph.brinkhaus",
@@ -773,7 +773,7 @@
     },
     {
         "person_name": "Dr. Carsten Brodesser",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.carsten-brodesser.de/",
             "https://www.facebook.com/dr.carsten.brodesser/",
@@ -781,13 +781,13 @@
         ]
     },
     {
-        "person_name": "Dr. Marlon Bröhr",
-        "person_company": "CDU/CSU",
+        "person_name": "Dr. Marlon Br\u00f6hr",
+        "company_name": "CDU/CSU",
         "social_networks": []
     },
     {
         "person_name": "Agnieszka Brugger",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "http://www.agnieszka-brugger.de",
             "https://www.facebook.com/agnieszkamdb/",
@@ -797,7 +797,7 @@
     },
     {
         "person_name": "Frank Bsirske",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://bsirske.net/",
             "https://www.facebook.com/Fbsirske/",
@@ -807,12 +807,12 @@
     },
     {
         "person_name": "Sandra Bubendorfer-Licht",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": []
     },
     {
         "person_name": "Katrin Budde",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.katrin-budde.de/",
             "https://www.facebook.com/buddekatrin/",
@@ -820,8 +820,8 @@
         ]
     },
     {
-        "person_name": "Marcus Bühl",
-        "person_company": "AfD",
+        "person_name": "Marcus B\u00fchl",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.marcus-buehl.de",
             "https://www.facebook.com/marcus.buehl.afd",
@@ -829,8 +829,8 @@
         ]
     },
     {
-        "person_name": "Clara Bünger",
-        "person_company": "Die Linke",
+        "person_name": "Clara B\u00fcnger",
+        "company_name": "Die Linke",
         "social_networks": [
             "https://www.clarabuenger.de",
             "https://www.facebook.com/ClaraBuenger",
@@ -841,7 +841,7 @@
     },
     {
         "person_name": "Yannick Bury",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://yannick-bury.de/",
             "https://www.facebook.com/yannick.bury.cdu",
@@ -851,7 +851,7 @@
     },
     {
         "person_name": "Dr. Marco Buschmann",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://www.marco-buschmann.de",
             "https://www.facebook.com/MarcoBuschmannFDP",
@@ -862,7 +862,7 @@
     },
     {
         "person_name": "Karlheinz Busen",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://www.karlheinz-busen.de/",
             "https://www.facebook.com/KarlheinzBusen/?fref=ts",
@@ -871,7 +871,7 @@
     },
     {
         "person_name": "Petr Bystron",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://petrbystron.de/",
             "https://www.facebook.com/bystronpetr/?fref=ts",
@@ -881,7 +881,7 @@
     },
     {
         "person_name": "Isabel Cademartori",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.cademartori.de",
             "https://www.facebook.com/isabel.cademartori",
@@ -892,7 +892,7 @@
     },
     {
         "person_name": "Prof. Dr. Lars Castellucci",
-        "person_company": "SPD",
+        "company_name": "SPD",
         "social_networks": [
             "http://www.lars-castellucci.de",
             "http://www.facebook.com/larscastellucci",
@@ -901,7 +901,7 @@
     },
     {
         "person_name": "Dr. Anna Christmann",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "http://www.annachristmann.org",
             "https://www.facebook.com/AnnaChristmannBT/",
@@ -911,7 +911,7 @@
     },
     {
         "person_name": "Tino Chrupalla",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.tinochrupalla.de/",
             "https://www.facebook.com/tinochrupallaAfD?fref=ts",
@@ -921,7 +921,7 @@
     },
     {
         "person_name": "Gitta Connemann",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "http://www.gitta-connemann.de",
             "http://www.facebook.com/GittaConnemann/",
@@ -929,8 +929,8 @@
         ]
     },
     {
-        "person_name": "Jürgen Coße",
-        "person_company": "SPD",
+        "person_name": "J\u00fcrgen Co\u00dfe",
+        "company_name": "SPD",
         "social_networks": [
             "https://juergen-cosse.spd.de/",
             "https://twitter.com/juergencosse",
@@ -940,7 +940,7 @@
     },
     {
         "person_name": "Joana Cotar",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "http://www.joanacotar.de",
             "http://www.facebook.com/afd.joanacotar",
@@ -950,7 +950,7 @@
     },
     {
         "person_name": "Carl-Julius Cronenberg",
-        "person_company": "FDP",
+        "company_name": "FDP",
         "social_networks": [
             "http://www.Carlo-cronenberg.de",
             "https://www.facebook.com/Carlo-Cronenberg-1598008726876796/",
@@ -961,7 +961,7 @@
     },
     {
         "person_name": "Dr. Gottfried Curio",
-        "person_company": "AfD",
+        "company_name": "AfD",
         "social_networks": [
             "https://www.gottfried-curio.de/",
             "https://www.facebook.com/GottfriedCurio.AfD",
@@ -971,7 +971,7 @@
     },
     {
         "person_name": "Mario Czaja",
-        "person_company": "CDU/CSU",
+        "company_name": "CDU/CSU",
         "social_networks": [
             "https://www.mario-czaja.de",
             "https://twitter.com/MarioCzaja",
@@ -982,11 +982,1680 @@
     },
     {
         "person_name": "Dr. Janosch Dahmen",
-        "person_company": "Bündnis 90/Die Grünen",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
         "social_networks": [
             "https://www.janosch-dahmen.de/",
             "https://twitter.com/janoschdahmen",
             "https://instagram.com/janosch.dahmen"
+        ]
+    },
+    {
+        "person_name": "Bernhard Daldrup",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.bernhard-daldrup.de/",
+            "https://www.facebook.com/bernharddaldrup/",
+            "https://twitter.com/BernhardDaldrup",
+            "https://www.instagram.com/bernharddaldrup"
+        ]
+    },
+    {
+        "person_name": "Astrid Damerow",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.astrid-damerow.de/",
+            "https://www.facebook.com/AstridDamerowCDU/",
+            "https://www.instagram.com/astrid_damerow/"
+        ]
+    },
+    {
+        "person_name": "Sevim Da\u011fdelen",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.sevimdagdelen.de/",
+            "https://www.facebook.com/MdBSevimDagdelen/",
+            "https://twitter.com/SevimDagdelen",
+            "https://www.instagram.com/sevim_dagdelen_/"
+        ]
+    },
+    {
+        "person_name": "Dr. Daniela De Ridder",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.daniela-de-ridder.de",
+            "https://twitter.com/deridder_mdb?lang=de",
+            "https://www.instagram.com/dr.daniela.deridder/?hl=de",
+            "https://www.facebook.com/dr.danieladeridder"
+        ]
+    },
+    {
+        "person_name": "Ekin Delig\u00f6z",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.ekin.de",
+            "https://www.facebook.com/deligoez.ekin/",
+            "https://twitter.com/ekindeligoez",
+            "http://www.instagram.com/ekin_deligoez"
+        ]
+    },
+    {
+        "person_name": "Hakan Demir",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.hakan-demir.de/",
+            "https://twitter.com/HakanDemirNK",
+            "https://www.instagram.com/hakandemirnk",
+            "https://www.facebook.com/HakanDemirNK/"
+        ]
+    },
+    {
+        "person_name": "Dr. Sandra Detzer",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://sandra-detzer.de",
+            "https://facebook.com/sandra.detzer.5",
+            "https://twitter.com/detzer_sandra",
+            "http://linkedin.com/in/dr-sandra-detzer-097147214",
+            "https://instagram.com/sandra_detzer"
+        ]
+    },
+    {
+        "person_name": "Dr. Karamba Diaby",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.karamba-diaby.de",
+            "https://de-de.facebook.com/DrKarambaDiaby",
+            "https://twitter.com/KarambaDiaby",
+            "https://www.instagram.com/drkarambadiaby/"
+        ]
+    },
+    {
+        "person_name": "Martin Diedenhofen",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.martin-diedenhofen.com",
+            "https://www.facebook.com/MDiedenhofen",
+            "https://twitter.com/MDiedenhofen",
+            "https://www.instagram.com/martindiedenhofen/"
+        ]
+    },
+    {
+        "person_name": "Jan Dieren",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.jan-dieren.de",
+            "https://www.facebook.com/JanUlrichDieren",
+            "https://twitter.com/JanUlrichDieren",
+            "https://www.instagram.com/jandieren"
+        ]
+    },
+    {
+        "person_name": "Thomas Dietz",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://thomas-dietz-erzgebirge.de/",
+            "https://www.facebook.com/thomas.dietz.77715"
+        ]
+    },
+    {
+        "person_name": "Esther Dilcher",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.estherdilcher.de/",
+            "https://www.facebook.com/esther.dilcher/",
+            "https://instagram.com/Estherdilcher?utm_medium=copy_link"
+        ]
+    },
+    {
+        "person_name": "Sabine Dittmar",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.sabine-dittmar.com",
+            "https://www.facebook.com/SabineDittmarMdB",
+            "https://twitter.com/dittmarsabine",
+            "https://www.instagram.com/sabinedittmarmdb/"
+        ]
+    },
+    {
+        "person_name": "Bijan Djir-Sarai",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.bijan-sarai.de",
+            "https://www.facebook.com/djirsarai/",
+            "https://twitter.com/DjirSarai",
+            "https://www.instagram.com/bijan_djirsarai_"
+        ]
+    },
+    {
+        "person_name": "Alexander Dobrindt",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.alexander-dobrindt.de/"
+        ]
+    },
+    {
+        "person_name": "Felix D\u00f6ring",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.felix-doering.de",
+            "https://www.facebook.com/felixdoeringspd",
+            "https://www.instagram.com/doering.felix/"
+        ]
+    },
+    {
+        "person_name": "Anke Domscheit-Berg",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.ankedomscheitberg.de",
+            "https://www.facebook.com/AnkeDomscheitBerg/",
+            "https://twitter.com/anked",
+            "http://",
+            "https://www.instagram.com/adomscheitberg/",
+            "http://www.linkedin.com/in/domscheit",
+            "https://www.youtube.com/c/AnkeDomscheitBergMdB"
+        ]
+    },
+    {
+        "person_name": "Michael Donth",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.michael-donth.de",
+            "http://de-de.facebook.com/donth.cdu"
+        ]
+    },
+    {
+        "person_name": "Katharina Dr\u00f6ge",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://katharina-droege.de/",
+            "https://www.facebook.com/KatharinaDroegeMdB/",
+            "https://www.twitter.com/katdro",
+            "https://www.instagram.com/katharina.droege/"
+        ]
+    },
+    {
+        "person_name": "Falko Dro\u00dfmann",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.drossmann.hamburg",
+            "https://www.instagram.com/falko.drossmann/"
+        ]
+    },
+    {
+        "person_name": "Deborah D\u00fcring",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://deborah-duering.de",
+            "https://twitter.com/deborahduering?lang=de",
+            "https://www.instagram.com/debbie.duering/?hl=de",
+            "https://m.facebook.com/DeborahDuering/"
+        ]
+    },
+    {
+        "person_name": "Christian D\u00fcrr",
+        "company_name": "FDP",
+        "social_networks": [
+            "http://www.christian-duerr.de/",
+            "https://www.facebook.com/duerr.christian/?ref=ts&fref=ts",
+            "https://twitter.com/christianduerr",
+            "http://www.instagram.com/c.duerr"
+        ]
+    },
+    {
+        "person_name": "Hansj\u00f6rg Durz",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.hansjoerg-durz.de",
+            "https://www.facebook.com/Hansjoerg.Durz",
+            "https://twitter.com/Hansjoerg_Durz",
+            "https://www.instagram.com/hansjoerg_durz"
+        ]
+    },
+    {
+        "person_name": "Harald Ebner",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.harald-ebner.de/",
+            "https://www.facebook.com/harald.ebner"
+        ]
+    },
+    {
+        "person_name": "Axel Echeverria",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://axel-echeverria.de/",
+            "https://www.instagram.com/axelecheverria2021/",
+            "https://www.facebook.com/axelecheverria2021/"
+        ]
+    },
+    {
+        "person_name": "Leon Eckert",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://leon-eckert.de",
+            "https://twitter.com/Leckert_",
+            "https://www.instagram.com/leckert_/?hl=de",
+            "https://www.facebook.com/leon.leckert/",
+            "https://www.linkedin.com/in/le-eckert/"
+        ]
+    },
+    {
+        "person_name": "Ralph Edelh\u00e4u\u00dfer",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.ralph-edelhaeusser.de",
+            "https://www.facebook.com/ralph.edelhaeusser/",
+            "https://www.facebook.com/EdelhaeusserRalph/",
+            "https://www.instagram.com/ralph_edelhaeusser/"
+        ]
+    },
+    {
+        "person_name": "Thomas Ehrhorn",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.facebook.com/Thomas-Ehrhorn-AfD-945204268844750/"
+        ]
+    },
+    {
+        "person_name": "Sonja Eichwede",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.sonja-eichwede.de/",
+            "https://twitter.com/sonjaeichwede",
+            "https://www.instagram.com/sonjaeichwede/",
+            "https://www.facebook.com/eichwede"
+        ]
+    },
+    {
+        "person_name": "Marcel Emmerich",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.marcelemmerich.de",
+            "https://www.facebook.com/marcelemmerichmdb",
+            "http://www.twitter.com/herr_emmerich",
+            "http://instagram.com/herr_emmerich/",
+            "https://de.linkedin.com \u203a marcel-emmerich-97070566"
+        ]
+    },
+    {
+        "person_name": "Alexander Engelhard",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.alexander-engelhard.berlin",
+            "http://www.facebook.com/alexanderEngelhard",
+            "http://www.instagram.com/alexander_engelhard_csu"
+        ]
+    },
+    {
+        "person_name": "Heike Engelhardt",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://heike-engelhardt.spd.de",
+            "https://www.instagram.com/heike.engelhardt/",
+            "https://m.facebook.com/heike.engelhardt.spd"
+        ]
+    },
+    {
+        "person_name": "Martina Englhardt-Kopf",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.englhardt-kopf.de/",
+            "https://www.facebook.com/englhardtkopf",
+            "https://www.instagram.com/englhardtkopf/"
+        ]
+    },
+    {
+        "person_name": "Thomas Erndl",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.thomas-erndl.de/",
+            "https://www.facebook.com/Thomas.Erndl.Bayern/",
+            "https://twitter.com/TErndl",
+            "https://de.linkedin.com/in/thomaserndl",
+            "https://www.instagram.com/thomaserndl"
+        ]
+    },
+    {
+        "person_name": "Klaus Ernst",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "https://www.klaus-ernst-mdb.de/",
+            "https://www.facebook.com/mdb.klaus.ernst/",
+            "https://twitter.com/ernst_klaus"
+        ]
+    },
+    {
+        "person_name": "Dr. Wiebke Esdar",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.wiebke-esdar.de/",
+            "https://www.facebook.com/WiebkeEsdar2017/",
+            "https://www.instagram.com/wiebkeesdar/"
+        ]
+    },
+    {
+        "person_name": "Saskia Esken",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.saskiaesken.de/",
+            "http://www.facebook.com/EskenSaskia",
+            "http://www.twitter.com/EskenSaskia",
+            "http://www.instagram.com/saskiaesken"
+        ]
+    },
+    {
+        "person_name": "Dr. Michael Espendiller",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.facebook.com/EspendillerM/",
+            "https://twitter.com/EspendillerM?lang=de",
+            "https://www.instagram.com/dr_espendiller/"
+        ]
+    },
+    {
+        "person_name": "Dr. Marcus Faber",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://mfaber.abgeordnete.fdpbt.de/",
+            "https://www.facebook.com/faber.marcus",
+            "https://twitter.com/marcusfaber",
+            "https://www.instagram.com/marcusfaberfdp"
+        ]
+    },
+    {
+        "person_name": "Hermann F\u00e4rber",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.hermann-faerber.de",
+            "https://de.facebook.com/HermannFaerber",
+            "https://www.instagram.com/hermannfaerber"
+        ]
+    },
+    {
+        "person_name": "Ariane F\u00e4scher",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://arianefaescher.de",
+            "https://de-de.facebook.com/FaescherAriane",
+            "https://twitter.com/arianefaescher?lang=de",
+            "https://www.linkedin.com/in/ariane-f\u00e4scher-78290495",
+            "https://www.instagram.com/ariane_faescher/"
+        ]
+    },
+    {
+        "person_name": "Yasmin Fahimi",
+        "company_name": "SPD\n        \u00a0*",
+        "social_networks": []
+    },
+    {
+        "person_name": "Robert Farle",
+        "company_name": "AfD",
+        "social_networks": [
+            "http://www.robert-farle.de",
+            "https://www.facebook.com/RobertFarle22/",
+            "https://twitter.com/robert_farle"
+        ]
+    },
+    {
+        "person_name": "Dr. Johannes Fechner",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://johannesfechner.de/",
+            "https://www.facebook.com/johannesfechner.spd/"
+        ]
+    },
+    {
+        "person_name": "Uwe Feiler",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.uwe-feiler.de/",
+            "https://www.facebook.com/uwefeilermdb/",
+            "https://www.instagram.com/uwefeilermdb/"
+        ]
+    },
+    {
+        "person_name": "Peter Felser",
+        "company_name": "AfD",
+        "social_networks": [
+            "http://www.peterfelser.de",
+            "https://www.facebook.com/Peter-Felser-AfD-225499161202327/"
+        ]
+    },
+    {
+        "person_name": "Enak Ferlemann",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.enak-ferlemann.de"
+        ]
+    },
+    {
+        "person_name": "Susanne Ferschl",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.susanne-ferschl.de",
+            "https://de-de.facebook.com/FerschlSusanne/",
+            "https://twitter.com/SusanneFerschl",
+            "https://www.instagram.com/susanneferschl"
+        ]
+    },
+    {
+        "person_name": "Emilia Fester",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.emiliafester.com/",
+            "https://twitter.com/emiliafester",
+            "http://instagram.com/emiliafester",
+            "https://www.facebook.com/EmiliaMillaFester/",
+            "https://www.youtube.com/channel/UC8O2bT1bB_PbjPPsfLkKaWQ"
+        ]
+    },
+    {
+        "person_name": "Sebastian Fiedler",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.sebastianfiedler.ruhr/",
+            "https://twitter.com/fiedelseb",
+            "https://www.instagram.com/fiedelseb/?hl=de",
+            "https://www.facebook.com/fiedelseb",
+            "https://de.linkedin.com/in/sebastian-fiedler-310a9a14b",
+            "https://www.youtube.com/channel/UCRYKeHGHN3V6602MSRp8gcA"
+        ]
+    },
+    {
+        "person_name": "Daniel F\u00f6st",
+        "company_name": "FDP",
+        "social_networks": [
+            "http://www.daniel-foest.de/",
+            "https://www.facebook.com/daniel.foest.Bundestag/",
+            "https://twitter.com/dfoest?lang=de",
+            "https://www.instagram.com/dfoest/"
+        ]
+    },
+    {
+        "person_name": "Dr. Edgar Franke",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.edgarfranke.de",
+            "https://www.facebook.com/edgar.franke/",
+            "https://twitter.com/FrankeEdgar"
+        ]
+    },
+    {
+        "person_name": "Thorsten Frei",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.thorsten-frei.de/",
+            "https://www.facebook.com/ThorstenFreiCDU",
+            "https://twitter.com/thorsten_frei",
+            "https://www.instagram.com/thorsten.frei/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Otto Fricke",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.otto-fricke.de",
+            "https://www.facebook.com/ottofrickefdp",
+            "https://twitter.com/Otto_Fricke",
+            "https://de.linkedin.com/in/otto-fricke-b0b91884",
+            "https://www.instagram.com/otto_fricke/"
+        ]
+    },
+    {
+        "person_name": "Dietmar Friedhoff",
+        "company_name": "AfD",
+        "social_networks": [
+            "http://www.dietmar-friedhoff.de",
+            "https://www.facebook.com/MdBFriedhoff/"
+        ]
+    },
+    {
+        "person_name": "Dr. Hans-Peter Friedrich (Hof)",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.hans-peter-friedrich.de",
+            "https://www.facebook.com/HansPeterFriedrichCSU",
+            "https://de.linkedin.com/in/hans-peter-friedrich-5ba945192",
+            "https://www.instagram.com/hanspeter.friedrich/",
+            "https://www.youtube.com/user/FriedrichHansPeter"
+        ]
+    },
+    {
+        "person_name": "Michael Frieser",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.michael-frieser.de",
+            "https://www.facebook.com/michael.frieser.csu/",
+            "https://twitter.com/MichaelFrieser",
+            "https://www.instagram.com/michael_frieser/"
+        ]
+    },
+    {
+        "person_name": "Dr. G\u00f6tz Fr\u00f6mming",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.goetz-froemming.de/",
+            "https://www.facebook.com/goetzfroemming/",
+            "https://twitter.com/gtzfrmming?lang=de",
+            "https://www.instagram.com/goetzfroemming"
+        ]
+    },
+    {
+        "person_name": "Markus Frohnmaier",
+        "company_name": "AfD",
+        "social_networks": []
+    },
+    {
+        "person_name": "Fabian Funke",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.fabian-funke.de"
+        ]
+    },
+    {
+        "person_name": "Maximilian Funke-Kaiser",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.mfunkekaiser.de",
+            "https://www.facebook.com/funkekaiser",
+            "https://twitter.com/max_fksr",
+            "https://www.linkedin.com/in/maximilian-funke-kaiser-0681511a0/",
+            "https://www.instagram.com/max_fksr/",
+            "https://www.youtube.com/channel/UCAgAqgjEAeScvtBLgc_CTkQ"
+        ]
+    },
+    {
+        "person_name": "Ingo G\u00e4dechens",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.ingo-g\u00e4dechens.de",
+            "http://www.facebook.com/ingo.gaedechens",
+            "http://www.twitter.com/gadechens",
+            "http://www.linkedin.com/in/ingo-g\u00e4dechens-05575a137",
+            "http://www.instagram.com/ingogaedechens"
+        ]
+    },
+    {
+        "person_name": "Schahina Gambir",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.schahina-gambir.de/",
+            "https://twitter.com/schahinag",
+            "https://www.instagram.com/schahinag",
+            "https://www.facebook.com/scha.hina"
+        ]
+    },
+    {
+        "person_name": "Tessa Ganserer",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.tessa-ganserer.de/",
+            "https://www.facebook.com/tessa.ganserer.bundestag",
+            "https://twitter.com/GansGruen",
+            "https://www.instagram.com/tessa_ganserer/"
+        ]
+    },
+    {
+        "person_name": "Martin Gassner-Herz",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.gassner-herz.de",
+            "https://www.facebook.com/MartinGassnerHerz",
+            "https://twitter.com/MartinGassner",
+            "https://www.instagram.com/martingassnerherz/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Matthias Gastel",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.matthias-gastel.de/",
+            "https://www.facebook.com/MatthiasGastelMdB/",
+            "https://twitter.com/MatthiasGastel",
+            "http://instagram.com/gastelmatthias"
+        ]
+    },
+    {
+        "person_name": "Dr. Alexander Gauland",
+        "company_name": "AfD",
+        "social_networks": []
+    },
+    {
+        "person_name": "Manuel Gava",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.manuelgava.de/",
+            "https://www.facebook.com/manuelgavaspd",
+            "https://www.instagram.com/manuelosna/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Dr. Thomas Gebhart",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.thomas-gebhart.de",
+            "https://www.facebook.com/gebhart.th",
+            "https://twitter.com/thomasgebhart",
+            "https://www.instagram.com/gebhart_th/"
+        ]
+    },
+    {
+        "person_name": "Kai Gehring",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.kai-gehring.de",
+            "http://www.facebook.com/kai.gehring/",
+            "http://www.twitter.com/KaiGehring",
+            "http://www.instagram.com/kai.gehring"
+        ]
+    },
+    {
+        "person_name": "Dr. Jonas Geissler",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.jonas-geissler.de/",
+            "http://www.facebook.com/JonasGeissler1984",
+            "http://www.instagram.corm/der_geissler"
+        ]
+    },
+    {
+        "person_name": "Stefan Gelbhaar",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://stefan-gelbhaar.de/",
+            "https://www.facebook.com/stefan.gelbhaar",
+            "https://twitter.com/stefangelbhaar",
+            "https://www.instagram.com/stefangelbhaar/"
+        ]
+    },
+    {
+        "person_name": "Michael Gerdes",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.michaelgerdes-mdb.de",
+            "https://www.facebook.com/michaelgerdesmdb",
+            "https://www.instagram.com/michaelgerdesmdb/"
+        ]
+    },
+    {
+        "person_name": "Knut Gerschau",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://knut-gerschau.wahl.freie-demokraten.de",
+            "https://facebook.com/knut.gerschau.fdp",
+            "https://instagram.com/knut.gerschau"
+        ]
+    },
+    {
+        "person_name": "Martin Gerster",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.martin-gerster.de/",
+            "https://www.facebook.com/MdB.Martin.Gerster"
+        ]
+    },
+    {
+        "person_name": "Dr. Jan-Niclas Gesenhues",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://gesenhues.eu/",
+            "https://www.facebook.com/JanniGesenhues",
+            "https://twitter.com/JN_Gesenhues",
+            "https://www.instagram.com/janni_gesenhues/"
+        ]
+    },
+    {
+        "person_name": "Albrecht Glaser",
+        "company_name": "AfD",
+        "social_networks": [
+            "http://www.albrecht-glaser.de",
+            "https://www.instagram.com/albrecht.glaser/",
+            "http://www.facebook.com/AlbrechtGlaser"
+        ]
+    },
+    {
+        "person_name": "Angelika Gl\u00f6ckner",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.angelika-gl\u00f6ckner.info/",
+            "https://twitter.com/A_Gloeckner",
+            "http://www.facebook.com/gloeckner.spd",
+            "http://www.instagram.com/angelikaglockner/"
+        ]
+    },
+    {
+        "person_name": "Hannes Gnauck",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://afd-um.de/",
+            "https://www.facebook.com/pages/category/Politician/Hannes-Gnauck-AfD-559704501209297/",
+            "https://twitter.com/Hannes_Gnauck",
+            "https://www.instagram.com/hannesgnauck/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Katrin G\u00f6ring-Eckardt",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.goering-eckardt.de",
+            "https://www.facebook.com/GoeringEckardt",
+            "https://twitter.com/GoeringEckardt",
+            "https://de.linkedin.com/in/katrin-g%C3%B6ring-eckardt-a52a6b156",
+            "https://www.instagram.com/goeringeckardt/"
+        ]
+    },
+    {
+        "person_name": "Christian G\u00f6rke",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "https://www.christian-goerke.de",
+            "https://twitter.com/goerke_c",
+            "https://www.instagram.com/christiangoerke62/",
+            "https://www.facebook.com/ChristianGoerkeLINKE"
+        ]
+    },
+    {
+        "person_name": "Nicole Gohlke",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.nicole-gohlke.de",
+            "http://www.facebook.com/NicoleGohlkeMdB",
+            "http://www.twitter.com/nicolegohlke",
+            "https://www.instagram.com/nicolegohlke.mdb"
+        ]
+    },
+    {
+        "person_name": "Kay Gottschalk",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://afd-gottschalk.de/",
+            "https://www.facebook.com/KayGottschalkAfD/?ref=bookmarks",
+            "https://www.instagram.com/kay.gottschalk.mdb.111/"
+        ]
+    },
+    {
+        "person_name": "Dr. Ingeborg Gr\u00e4\u00dfle",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://inge-graessle.de",
+            "https://www.facebook.com/inge.graessle/",
+            "https://twitter.com/inge_graessle?lang=de",
+            "https://de.linkedin.com/in/dr-inge-gr\u00e4\u00dfle",
+            "https://www.instagram.com/inge.graessle/?hl=de"
+        ]
+    },
+    {
+        "person_name": "Fabian Gramling",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.fabian-gramling.de/",
+            "https://www.facebook.com/f.gramling/",
+            "https://twitter.com/fabiangramling",
+            "https://de.linkedin.com/in/fabian-gramling-6a04721bb",
+            "https://www.instagram.com/fabian.gramling/"
+        ]
+    },
+    {
+        "person_name": "Prof. Dr. Armin Grau",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.armingrau.de",
+            "http://www.facebook.com/armin.grau.37"
+        ]
+    },
+    {
+        "person_name": "Timon Gremmels",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.timon-gremmels.de",
+            "https://Facebook.com/timongremmels",
+            "https://www.twitter.com/timon_gremmels",
+            "https://de.linkedin.com/in/timon-gremmels",
+            "https://www.instagram.com/gremmels/"
+        ]
+    },
+    {
+        "person_name": "Kerstin Griese",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.kerstin-griese.de/",
+            "https://www.facebook.com/KerstinGrieseMdB"
+        ]
+    },
+    {
+        "person_name": "Hermann Gr\u00f6he",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.hermann-groehe.de",
+            "http://www.facebook.de/groehe",
+            "http://www.twitter.com/groehe"
+        ]
+    },
+    {
+        "person_name": "Uli Gr\u00f6tsch",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.uli-gr\u00f6tsch.de/",
+            "https://de-de.facebook.com/uli.groetsch/",
+            "https://twitter.com/UliGroetsch",
+            "https://www.instagram.com/uligroetsch",
+            "Youtube: https://www.youtube.com/user/UliGroetsch"
+        ]
+    },
+    {
+        "person_name": "Michael Grosse-Br\u00f6mer",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.m-grosse-broemer.de",
+            "https://www.facebook.com/MGrosseBroemer/",
+            "https://twitter.com/mgrossebroemer",
+            "https://instagram.com/michaelgrossebroemer"
+        ]
+    },
+    {
+        "person_name": "Markus Gr\u00fcbel",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.markus-gruebel.de",
+            "https://www.facebook.com/MarkusGruebelMdB",
+            "https://twitter.com/GruebelMdB",
+            "https://www.instagram.com/markus.gruebel"
+        ]
+    },
+    {
+        "person_name": "Prof. Monika Gr\u00fctters",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.monika-gruetters.de",
+            "https://www.facebook.com/MonikaGruetters/"
+        ]
+    },
+    {
+        "person_name": "Sabine Gr\u00fctzmacher",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.sabine-gruetzmacher.de",
+            "https://www.facebook.com/SabineGruetzmacher.obk",
+            "https://twitter.com/S_Gruetzmacher",
+            "https://www.instagram.com/sabine_gruetzmacher"
+        ]
+    },
+    {
+        "person_name": "Manfred Grund",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.manfredgrund.de",
+            "http://www.facebook.com/manfredgrund",
+            "https://www.instagram.com/manfred_grund/",
+            "https://www.youtube.com/c/ManfredGrundMdB"
+        ]
+    },
+    {
+        "person_name": "Erhard Grundl",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.erhard-grundl.de/",
+            "https://www.facebook.com/grundl.erhard",
+            "https://twitter.com/Erhard_Grundl?lang=de",
+            "https://www.instagram.com/erhard.grundl"
+        ]
+    },
+    {
+        "person_name": "Oliver Grundmann",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.olivergrundmann.de",
+            "http://www.facebook.com/mdb.olivergrundmann",
+            "https://www.instagram.com/mdb.oliver.grundmann/"
+        ]
+    },
+    {
+        "person_name": "Serap G\u00fcler",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.serapgueler.de/",
+            "https://twitter.com/SerapGueler",
+            "https://www.instagram.com/sgueler/?hl=de",
+            "https://de-de.facebook.com/serap.guler.921"
+        ]
+    },
+    {
+        "person_name": "Fritz G\u00fcntzler",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.fritz-guentzler.de",
+            "https://facebook.com/fguentzler",
+            "https://twitter.com/fguentzler",
+            "https://de.linkedin.com/in/fritz-g\u00fcntzler-mdb-b08901101",
+            "ttps://www.instagram.com/fguentzler"
+        ]
+    },
+    {
+        "person_name": "Ates G\u00fcrpinar",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.ates-guerpinar.de",
+            "https://twitter.com/AtesGuerpinar",
+            "https://www.instagram.com/atesgurpinar/",
+            "https://www.facebook.com/ates.guerpinar"
+        ]
+    },
+    {
+        "person_name": "Olav Gutting",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.olav-gutting.de/",
+            "https://www.facebook.com/olav.gutting",
+            "https://twitter.com/olavgutting",
+            "https://www.instagram.com/olavgutting"
+        ]
+    },
+    {
+        "person_name": "Dr. Gregor Gysi",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.gregorgysi.de",
+            "https://de-de.facebook.com/gregor.gysi/",
+            "https://twitter.com/GregorGysi"
+        ]
+    },
+    {
+        "person_name": "Christian Haase",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.haase-christian.de/",
+            "https://www.facebook.com/haasechristian.de/"
+        ]
+    },
+    {
+        "person_name": "Dr. Robert Habeck",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.robert-habeck.de",
+            "https://www.instagram.com/robert.habeck/"
+        ]
+    },
+    {
+        "person_name": "Thomas Hacker",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.thacker.abgeordnete.fdpbt.de",
+            "https://www.facebook.com/FDP.Hacker",
+            "https://www.twitter.com/hacker_fdp",
+            "https://www.linkedin.com/in/thomas-hacker/",
+            "https://www.instagram.com/hacker_thomas/"
+        ]
+    },
+    {
+        "person_name": "Bettina Hagedorn",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.bettina-hagedorn.de",
+            "https://www.facebook.com/bettinahagedornMdB"
+        ]
+    },
+    {
+        "person_name": "Rita Hagl-Kehl",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.rita-hagl-kehl.de/",
+            "https://www.facebook.com/Rita.Hagl.Kehl",
+            "https://twitter.com/RitaHaglKehl",
+            "https://www.instagram.com/haglkehl"
+        ]
+    },
+    {
+        "person_name": "Dr. Andr\u00e9 Hahn",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.andre-hahn.eu/",
+            "https://www.facebook.com/DrAndreHahn"
+        ]
+    },
+    {
+        "person_name": "Florian Hahn",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.florian-hahn.de",
+            "https://www.facebook.com/florian.hahn.3766/",
+            "https://twitter.com/hahnflo",
+            "https://www.linkedin.com/in/florian-hahn-3290541a0",
+            "https://www.instagram.com/hahnflo/",
+            "https://www.youtube.com/channel/UCgUvjq68YiiBnblGopXyWPQ"
+        ]
+    },
+    {
+        "person_name": "Metin Hakverdi",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://metin-hakverdi.de/",
+            "http://www.facebook.com/metin.hakverdi.3",
+            "http://twitter.com/MetinHakverdi",
+            "https://www.instagram.com/metin.hakverdi"
+        ]
+    },
+    {
+        "person_name": "Reginald Hanke",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://reginald-hanke.abgeordnete.fdpbt.de/",
+            "https://www.facebook.com/reginaldhanke/",
+            "https://www.instagram.com/reginald.hanke/"
+        ]
+    },
+    {
+        "person_name": "Mariana Iris Harder-K\u00fchnel",
+        "company_name": "AfD",
+        "social_networks": [
+            "http://www.mariana-harder-kuehnel.de",
+            "https://www.facebook.com/M.Harder.Kuehnel/",
+            "https://twitter.com/M_HarderKuehnel"
+        ]
+    },
+    {
+        "person_name": "J\u00fcrgen Hardt",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.juergenhardt.de",
+            "https://www.facebook.com/JuergenHardt",
+            "https://twitter.com/juergenhardt",
+            "https://www.instagram.com/juergenhardt_mdb"
+        ]
+    },
+    {
+        "person_name": "Philipp Hartewig",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://philipp-hartewig.wahl.freie-demokraten.de/",
+            "https://www.facebook.com/philipphartewig",
+            "https://twitter.com/philipphartewig",
+            "https://www.linkedin.com/in/philipp-hartewig-449998189/",
+            "https://www.instagram.com/philipphartewig"
+        ]
+    },
+    {
+        "person_name": "Sebastian Hartmann",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.sebastian-hartmann.de/",
+            "https://www.facebook.com/SebastianHartmannSPD",
+            "https://twitter.com/sebast_hartmann",
+            "https://www.instagram.com/sebastianhartmann.spd"
+        ]
+    },
+    {
+        "person_name": "Ulrike Harzer",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://ulrike-harzer.de",
+            "https://www.facebook.com/UlrikeHarzerFDP",
+            "https://www.twitter.com/HarzerUlrike",
+            "https://linkedin.com/in/ulrike-harzer-71b1a9a3",
+            "https://www.instagram.com/ulrike_harzer"
+        ]
+    },
+    {
+        "person_name": "Britta Ha\u00dfelmann",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://britta-hasselmann.de",
+            "http://www.facebook.com/britta.hasselmann",
+            "http://www.twitter.com/BriHasselmann"
+        ]
+    },
+    {
+        "person_name": "Matthias Hauer",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.matthias-hauer.de",
+            "http://www.facebook.com/matthiashauer.cdu",
+            "http://twitter.com/MatthiasHauer",
+            "http://www.instagram.com/matthias.hauer.mdb"
+        ]
+    },
+    {
+        "person_name": "Jochen Haug",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.facebook.com/JochenHaugAfD",
+            "https://www.facebook.com/Jochen_Haug"
+        ]
+    },
+    {
+        "person_name": "Dr. Stefan Heck",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.stefan-heck.net/",
+            "https://twitter.com/stheck?lang=de",
+            "https://www.instagram.com/stefanheck82/",
+            "https://www.facebook.com/Dr.Stefan.Heck/"
+        ]
+    },
+    {
+        "person_name": "Dirk Heidenblut",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.dirk-heidenblut.de",
+            "https://de-de.facebook.com/DirkHeidenblutMdB",
+            "http://instgram.com/dirk_heidenblut"
+        ]
+    },
+    {
+        "person_name": "Peter Heidt",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://peter-heidt.abgeordnete.fdpbt.de/",
+            "https://www.facebook.com/peter.heidt.75",
+            "https://twitter.com/PeterHeidtFDP",
+            "https://www.instagram.com/advocatopeter/"
+        ]
+    },
+    {
+        "person_name": "Hubertus Heil (Peine)",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.hubertus-heil.de",
+            "https://www.facebook.com/mdb.hubertusheil",
+            "https://twitter.com/hubertus_heil",
+            "https://www.instagram.com/hubertus_heil/"
+        ]
+    },
+    {
+        "person_name": "Mechthild Heil",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.mechthild-heil.de",
+            "http://www.facebook.com/MechthildHeil"
+        ]
+    },
+    {
+        "person_name": "Frauke Heiligenstadt",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://frauke-heiligenstadt.de/",
+            "http://www.facebook.com/FraukeHeiligenstadtSPD/",
+            "https://twitter.com/fheiligenstadt",
+            "https://www.instagram.com/Frauke_Heiligenstadt/"
+        ]
+    },
+    {
+        "person_name": "Thomas Heilmann",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.heilmann.berlin/",
+            "https://www.facebook.com/thomasheilmannoffiziell/",
+            "https://www.instagram.com/thomas_heilmann/",
+            "https://twitter.com/ThomasHeilmann",
+            "https://de.linkedin.com/in/thomas-heilmann-b8589923",
+            "https://www.xing.com/profile/Thomas_Heilmann"
+        ]
+    },
+    {
+        "person_name": "Gabriela Heinrich",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://gabriela-heinrich.de/",
+            "https://www.facebook.com/heinrichgabriela",
+            "https://twitter.com/gaheinrich",
+            "https://www.instagram.com/gabriela_heinrich"
+        ]
+    },
+    {
+        "person_name": "Linda Heitmann",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://linda-heitmann.de",
+            "https://twitter.com/linda_lobster",
+            "https://instagram.com/linda.altona"
+        ]
+    },
+    {
+        "person_name": "Matthias Helferich",
+        "company_name": "fraktionslos",
+        "social_networks": [
+            "https://www.instagram.com/matthiashelferichafd/?hl=de",
+            "https://de-de.facebook.com/helferich.afd/"
+        ]
+    },
+    {
+        "person_name": "Mark Helfrich",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.mark-helfrich.de/",
+            "https://de-de.facebook.com/markhelfrich.de/",
+            "http://www.instaram.com/mark.helfrich.cdu"
+        ]
+    },
+    {
+        "person_name": "Katrin Helling-Plahr",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.helling-plahr.de",
+            "https://www.facebook.com/KatrinHellingPlahr",
+            "https://twitter.com/KatrinHelling",
+            "https://www.instagram.com/katrinhellingplahr/"
+        ]
+    },
+    {
+        "person_name": "Wolfgang Hellmich",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.wolfgang-hellmich.de",
+            "https://www.facebook.com/WolfgangHellmichmdb"
+        ]
+    },
+    {
+        "person_name": "Kathrin Henneberger",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://kathrinhenneberger.de/",
+            "https://www.facebook.com/KathrinAnnaHenneberger",
+            "https://twitter.com/KathrinAnna",
+            "https://www.instagram.com/kathrin.henneberger/",
+            "https://www.youtube.com/channel/UCGWLbHfCO7Cq9AvKH4HOvFQ"
+        ]
+    },
+    {
+        "person_name": "Anke Hennig",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://anke-hennig.spd.de/",
+            "https://twitter.com/AnkeHennigSPD",
+            "https://instagram.com/ankehennig_bramsche",
+            "https://facebook.com/ankehennigspd"
+        ]
+    },
+    {
+        "person_name": "Susanne Hennig-Wellsow",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "https://www.susannehennig.de/",
+            "https://twitter.com/SusanneHennig?",
+            "https://www.instagram.com/susanne_hennig_wellsow"
+        ]
+    },
+    {
+        "person_name": "Michael Hennrich",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.michael-hennrich.de"
+        ]
+    },
+    {
+        "person_name": "Marc Henrichmann",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.marc-henrichmann.de",
+            "http://www.facebook.com/m.henrichmann",
+            "https://www.twitter.com/marchenrichmann",
+            "https://instagram.com/marc_henrichmann"
+        ]
+    },
+    {
+        "person_name": "Markus Herbrand",
+        "company_name": "FDP",
+        "social_networks": [
+            "http://www.markus-herbrand.de",
+            "http://www.facebook.com/HerbrandMdB/",
+            "http://www.twitter.com/HerbrandMarkus",
+            "http://www.instagram.com{markus.herbrand.fdp"
+        ]
+    },
+    {
+        "person_name": "Torsten Herbst",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.torsten-herbst.de/",
+            "https://www.facebook.com/torsten.herbst",
+            "https://twitter.com/torstenherbst",
+            "https://www.instagram.com/herbsttorsten"
+        ]
+    },
+    {
+        "person_name": "Bernhard Herrmann",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://bernhard-herrmann.de/",
+            "https://www.facebook.com/bernhard.herrmann.73",
+            "https://twitter.com/BHerrmann_",
+            "https://www.instagram.com/bernhard_herrmann_/"
+        ]
+    },
+    {
+        "person_name": "Nadine Heselhaus",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://nadine-heselhaus.de/",
+            "https://www.facebook.com/nadine.heselhaus/",
+            "https://twitter.com/nheselhaus?lang=de",
+            "https://www.instagram.com/nadine.heselhaus/?hl=de",
+            "https://www.tiktok.com/@nadine.heselhaus?lang=de-DE"
+        ]
+    },
+    {
+        "person_name": "Martin Hess",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.martinhess-afd.de/",
+            "https://www.facebook.com/Martin.Hess.AfD/",
+            "https://twitter.com/martin_hess_afd",
+            "https://www.instagram.com/martinhess.afd"
+        ]
+    },
+    {
+        "person_name": "Katja Hessel",
+        "company_name": "FDP",
+        "social_networks": [
+            "http://www.katja-hessel.de/",
+            "https://www.facebook.com/HesselKatja",
+            "https://twitter.com/fdp_hessel",
+            "https://de.linkedin.com/in/katja-hessel",
+            "https://www.instagram.com/hesselkatja"
+        ]
+    },
+    {
+        "person_name": "Ansgar Heveling",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.ansgar-heveling.de"
+        ]
+    },
+    {
+        "person_name": "Susanne Hierl",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.susanne-hierl.de",
+            "https://www.facebook.com/susanne.hierl.9",
+            "http://twitter.com/hierlsusanne",
+            "https://www.linkedin.com/in/susanne-hierl-713050b1",
+            "https://www.instagram.com/susanne.hierl"
+        ]
+    },
+    {
+        "person_name": "Karsten Hilse",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.facebook.com/pg/Karsten.Hilse.Politiker/about/?ref=page_internal",
+            "https://twitter.com/Karsten_Hilse"
+        ]
+    },
+    {
+        "person_name": "Christian Hirte",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.christian-hirte.de/",
+            "https://www.facebook.com/ChristianHirteMdB",
+            "http://www.twitter.com/christianhirte",
+            "https://www.linkedin.com/christian-hirte",
+            "https://www.instagram.com/christianhirtemdb"
+        ]
+    },
+    {
+        "person_name": "Thomas Hitschler",
+        "company_name": "SPD",
+        "social_networks": [
+            "http://www.thomas-hitschler.de",
+            "https://www.facebook.com/thomashitschler",
+            "https://twitter.com/thomashitschler",
+            "https://www.instagram.com/thomashitschler"
+        ]
+    },
+    {
+        "person_name": "Dr. Gero Clemens Hocker",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.gero-hocker.de/",
+            "https://www.facebook.com/hockergero/",
+            "https://www.twitter.com/GeroHocker",
+            "https://www.instagram.com/gerohocker"
+        ]
+    },
+    {
+        "person_name": "Nicole H\u00f6chst",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://nicole-hoechst.de",
+            "https://www.facebook.com/hoechstmdb",
+            "https://twitter.com/Nicole_Hoechst",
+            "https://instagram.com/hoechstnicole",
+            "http://t.me/nicolehoechstmdb"
+        ]
+    },
+    {
+        "person_name": "Manuel H\u00f6ferlin",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://mhoeferlin.abgeordnete.fdpbt.de/",
+            "https://www.facebook.com/Hoeferlin",
+            "https://twitter.com/ManuelHoeferlin",
+            "https://www.linkedin.com/in/manuelhoeferlin",
+            "https://www.instagram.com/ManuelHoeferlin/"
+        ]
+    },
+    {
+        "person_name": "Bruno H\u00f6nel",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://bruno-hoenel.de/",
+            "https://www.facebook.com/BrunoHoenel.Gruene/",
+            "https://twitter.com/Bruno_Hoenel",
+            "https://de.linkedin.com/in/brunohoenel",
+            "https://www.instagram.com/bruno.hoenel/"
+        ]
+    },
+    {
+        "person_name": "Alexander Hoffmann",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.alexander-hoffmann.org"
+        ]
+    },
+    {
+        "person_name": "Dr. Bettina Hoffmann",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.bettina-hoffmann.info",
+            "http://www.facebook.com/dr.bettina.hoffmann",
+            "https://twitter.com/bhoffmann_mdb",
+            "https://www.instagram.com/dr.bettina.hoffmann"
+        ]
+    },
+    {
+        "person_name": "Dr. Christoph Hoffmann",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.dr-christoph-hoffmann.de/",
+            "https://www.facebook.com/dr.christoph.hoffmann.fdp",
+            "https://twitter.com/HoffmannForest",
+            "https://www.instagram.com/christoph.hoffmann.mdb/"
+        ]
+    },
+    {
+        "person_name": "Dr. Anton Hofreiter",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "http://www.toni-hofreiter.de/",
+            "https://www.facebook.com/anton.hofreiter/",
+            "https://www.instagram.com/toni_hofreiter/",
+            "https://www.youtube.com/user/tonihofreiter"
+        ]
+    },
+    {
+        "person_name": "Leif-Erik Holm",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.leif-erik-holm.de/",
+            "https://www.facebook.com/leiferikholm2/",
+            "https://twitter.com/Leif_Erik_Holm",
+            "https://www.youtube.com/c/leiferikholm-afd"
+        ]
+    },
+    {
+        "person_name": "Dr. Hendrik Hoppenstedt",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.hendrik-hoppenstedt.de",
+            "http://www.facebook.com/HendrikHoppenstedt",
+            "https://www.instagram.com/hendrikhoppenstedt"
+        ]
+    },
+    {
+        "person_name": "Franziska Hoppermann",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.franziska-hoppermann.de",
+            "https://www.twitter.com/FHoppermann",
+            "https://instagram.com/franziskahoppermann.cdu",
+            "https://www.facebook.com/f.hoppermann"
+        ]
+    },
+    {
+        "person_name": "Jasmina Hostert",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://jasmina-hostert.spd.de",
+            "https://twitter.com/jasminahostert",
+            "https://www.instagram.com/jasminahostert",
+            "https://www.facebook.com/jasmina.hostert"
+        ]
+    },
+    {
+        "person_name": "Reinhard Houben",
+        "company_name": "FDP",
+        "social_networks": [
+            "https://www.reinhard-houben.de",
+            "https://www.facebook.com/ReinhardKoeln",
+            "https://twitter.com/HoubenReinhard",
+            "https://www.instagram.com/reinhardhouben"
+        ]
+    },
+    {
+        "person_name": "Johannes Huber",
+        "company_name": "fraktionslos",
+        "social_networks": [
+            "http://www.johanneshuber.bayern",
+            "https://www.facebook.com/Johannes.Huber.AfD/",
+            "https://twitter.com/Huber_AfD?lang=de"
+        ]
+    },
+    {
+        "person_name": "Verena Hubertz",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://verena-hubertz.de/",
+            "https://twitter.com/verenahubertz",
+            "https://www.facebook.com/verenahubertz.spd",
+            "https://www.instagram.com/verenahubertz/",
+            "https://www.linkedin.com/in/verena-hubertz-baa2aaa4/"
+        ]
+    },
+    {
+        "person_name": "Markus H\u00fcmpfer",
+        "company_name": "SPD",
+        "social_networks": [
+            "https://www.markus-huempfer.de",
+            "https://www.facebook.com/markushuempfer",
+            "https://www.instagram.com/markushuempfer/",
+            "www.youtube.com/channel/UCZGVDjjWAYSzTBYYSLDHNqg"
+        ]
+    },
+    {
+        "person_name": "Hubert H\u00fcppe",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.huberthueppe.de/",
+            "https://www.instagram.com/huberthueppe/",
+            "https://www.facebook.com/hubert.hueppe/"
+        ]
+    },
+    {
+        "person_name": "Andrej Hunko",
+        "company_name": "Die Linke",
+        "social_networks": [
+            "http://www.andrej-hunko.de",
+            "https://www.facebook.com/andrej.hunko/",
+            "https://twitter.com/andrejhunko",
+            "https://www.instagram.com/andrejhunko/"
+        ]
+    },
+    {
+        "person_name": "Gerrit Huy",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://gerrithuy.de/",
+            "https://www.facebook.com/gerrithuy.afd",
+            "https://twitter.com/GerritHuy",
+            "https://www.instagram.com/gerrithuy.afd/",
+            "https://www.youtube.com/channel/UCZJFECewSRnXpiZ1Ndmhnhg",
+            "https://t.me/gerrithuy",
+            "https://www.gettr.com/user/gerrithuy",
+            "https://www.tiktok.com/@gerrithuy?lang=de-DE"
+        ]
+    },
+    {
+        "person_name": "Olaf in der Beek",
+        "company_name": "FDP",
+        "social_networks": [
+            "http://www.olafinderbeek.de/",
+            "https://www.facebook.com/olafinderbeek/",
+            "https://www.instagram.com/olafinderbeekmdb/"
+        ]
+    },
+    {
+        "person_name": "Erich Irlstorfer",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.irlstorfer.de",
+            "https://www.facebook.com/ErichIrlstorferMdB",
+            "https://www.linkedin.com/in/erich-irlstorfer-262860217",
+            "https://instagram.coom/irlstorfer.mdb?utm_medium=copy_link"
+        ]
+    },
+    {
+        "person_name": "Fabian Jacobi",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.fabian-jacobi.de"
+        ]
+    },
+    {
+        "person_name": "Dieter Janecek",
+        "company_name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+        "social_networks": [
+            "https://www.dieterjanecek.de",
+            "https://www.facebook.com/DieterJanecekBundestag/",
+            "https://www.twitter.com/DJanecek",
+            "https://www.linkedin.com/in/dieter-janecek-34b005211",
+            "https://www.instagram.com/dieterjanecek",
+            "https://www.youtube.com/channel/UCVaa4zapJP6xKg0dFRgX3Bw"
+        ]
+    },
+    {
+        "person_name": "Steffen Janich",
+        "company_name": "AfD",
+        "social_networks": [
+            "https://www.steffenjanich.de",
+            "https://www.facebook.com/SteffenJanichAfD"
+        ]
+    },
+    {
+        "person_name": "Anne Janssen",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "https://www.annejanssen.de",
+            "https://www.facebook.com/annejanssen2021/",
+            "https://instagram.com/anne_janssen_26"
+        ]
+    },
+    {
+        "person_name": "Thomas Jarzombek",
+        "company_name": "CDU/CSU",
+        "social_networks": [
+            "http://www.jarzombek.de",
+            "https://www.facebook.com/thjarzombek",
+            "https://twitter.com/tj_tweets",
+            "https://www.linkedin.com/in/jarzombek",
+            "https://www.instagram.com/thomas_jarzombek"
         ]
     }
 ]

@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from time import sleep
+import random
 
 # persons_url_list = []
 #
@@ -41,8 +43,14 @@ with open('persona_url_list.txt') as file:
         social_networks = soup.find_all(class_='bt-link-extern')
 
         social_networks_urls = []
-        for item in social_networks:
+        try:
+          for item in social_networks:
             social_networks_urls.append(item.get('href'))
+            sleep(random.randrange(2, 4))
+        except Exception as ex:
+          print(ex)
+          print('Errorr///')
+        
 
         data = {
             'person_name': person_name,
